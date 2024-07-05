@@ -9,7 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@jamescoyle/vue-icon": "^0.1.2",
+    "@mdi/js": "^7.4.47",
     "d3": "^7.9.0",
+    "element-plus": "^2.7.6",
     "pinia": "^2.1.7",
     "vue": "^3.4.29"
   },

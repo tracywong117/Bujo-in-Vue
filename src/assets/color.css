@@ -1,0 +1,22 @@
+:root{
+    --primary-light-color-1: rgb(232, 232, 247);
+    --primary-light-color-2: rgb(209, 206, 255);
+    --primary-light-color-3: rgb(223, 220, 255);
+
+    --primary-light-sharp-color-1: rgb(206, 168, 255);
+    --primary-light-sharp-color-2: rgb(204, 182, 232);
+
+    --primary-pale-color-1: rgb(182, 182, 204);
+
+    --primary-font-color-1: rgb(135, 98, 136);
+    --primary-font-color-2: rgb(86, 73, 101);
+
+    --primary-text-border-color: rgb(155, 146, 164);
+
+    --primary-background-color-1: #eaebff;
+
+    --secondary-light-color-1: rgb(247, 245, 232);
+
+    --lin-grad-primary-1: linear-gradient(90deg, rgb(139, 92, 246) 0%, rgb(189, 101, 166) 100%);
+    
+  }
